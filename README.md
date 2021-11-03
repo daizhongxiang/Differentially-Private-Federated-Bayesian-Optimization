@@ -1,4 +1,4 @@
-# Code for the NeurIPS 2021 paper: "Differentially Private Federated Bayesian Optimization with Distributed Exploration"
+# Code for the NeurIPS 2021 paper: [Differentially Private Federated Bayesian Optimization with Distributed Exploration.](https://daizhongxiang.github.io/papers/dp_fbo.pdf)
 This directory contains the code for the landmine detection experiment in the paper "Differentially Private Federated Bayesian Optimization with Distributed Exploration", which was accepted to NeurIPS 2021.
 
 The implementations here include standard Thompson sampling (TS) and DP-FTS-DE. The implementation of DP-FTS-DE also subsumes its different variants including FTS (without DP and DE), FTS-DE (without DP) and DP-FTS (without DE).
